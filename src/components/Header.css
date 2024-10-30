@@ -1,0 +1,13 @@
+/* src/components/Header.css */
+.header {
+    background-color: var(--cor-1);
+    padding: 10px;
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Alinha o conteúdo verticalmente */
+}
+
+.header h1 {
+    color: var(--cor-2);
+    margin-left: 20px; /* Espaço entre o logo e o título */
+}
